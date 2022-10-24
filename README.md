@@ -1,4 +1,6 @@
-### Hi there 👋
+# jzb's README
+
+🔭 Working on open source community architecture and developer relations at Intel in the [Open Ecosystem](https://www.intel.com/content/www/us/en/developer/topic-technology/open/team.html#tab-blade-1-1) team. 
 
 <!--
 **jzb/jzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
