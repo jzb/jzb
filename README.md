@@ -1,6 +1,8 @@
 # README
 
-## 💬 Talk to me about open source, writing, product marketing, developer relations, communications, and community.
+## 💬 Topics
+
+I'm all about open source, writing, product marketing, developer relations, communications, and community. Also music, books, and cats if you want to talk about non-work things... 
 
 Have been working in tech for more than 20 years, usually doing some combination of the above. 
 
