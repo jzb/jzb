@@ -1,6 +1,14 @@
-# Hello there!
+# README
 
-🔭 Working on open source community architecture and developer relations at Intel in the [Open Ecosystem](https://www.intel.com/content/www/us/en/developer/topic-technology/open/team.html#tab-blade-1-1) team. 
+## 💬 Talk to me about open source, writing, product marketing, developer relations, communications, and community.
+
+Have been working in tech for more than 20 years, usually doing some combination of the above. 
+
+## 📫 Where to find me
+- **Blog** [Dissociated Press](https://dissociatedpress.net/) for thoughts on all the above, music, and cats. 
+- **Mastodon** as [@jzb@mastodon.social](https://mastodon.social/@jzb) shorter thoughts... 
+- [**LinkedIn**](https://www.linkedin.com/in/zonker/) to connect professionally and elsewhere. 
+- My email is jzb at that first domain or [Zonker.net](https://zonker.net). 
 
 <!--
 **jzb/jzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
