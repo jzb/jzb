@@ -2,7 +2,7 @@
 
 ## 💬 Topics
 
-I'm all about open source, writing, product marketing, developer relations, communications, and community. Also music, books, and cats if you want to talk about non-work things... 
+I'm all about [open source](https://dissociatedpress.net/tag/open-source/), [writing](https://dissociatedpress.net/category/writing/), product marketing, developer relations, communications, and community. Also [music](https://dissociatedpress.net/category/music/), [books](https://dissociatedpress.net/category/books/), and [cats](https://dissociatedpress.net/category/cats/) if you want to talk about non-work things... 
 
 Have been working in tech for more than 20 years, usually doing some combination of the above. 
 
