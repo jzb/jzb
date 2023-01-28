@@ -16,6 +16,7 @@ Have been working in tech for more than 20 years, usually doing some combination
 
 - Of Mastodon and Twitter: "[All the perfect drugs and superheroes...](https://dissociatedpress.net/2022/11/07/all-the-perfect-drugs-and-superheroes/)", "[Taming Mastodons for a better web](https://dissociatedpress.net/2022/11/09/taming-mastodons-for-a-better-web/)"
 - On open source: "[Give nothing, expect nothing: GitLab’s the latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)", "[Why don't people just...?](https://dissociatedpress.net/2022/12/26/why-dont-people-just/)"
+- On Music: "[My favorite 100 albums](https://dissociatedpress.net/top-100-albums/)", "[You can't find that on streaming](https://dissociatedpress.net/you-cant-find-that-on-spotify-albums-and-songs-you-cant-find-on-streaming-services/)"
 
 
 
