@@ -9,11 +9,13 @@ Have been [working in tech](https://www.linkedin.com/in/zonker/) for more than 2
 ## 📫 Where to find me
 - **Blog** [Dissociated Press](https://dissociatedpress.net/) for thoughts on all the above, music, and cats. 
 - **Mastodon** as [@jzb@mastodon.social](https://mastodon.social/@jzb) shorter thoughts... 
-- [**LinkedIn**](https://www.linkedin.com/in/zonker/) to connect professionally and elsewhere. 
+- [**LinkedIn**](https://www.linkedin.com/in/zonker/) to connect professionally and elsewhere.
+- **More about me** on [my portfolio site](https://www.joebrockmeier.com/).
 - My email is jzb at that first domain or [Zonker.net](https://zonker.net). 
 
 ## Featured posts
 
+- [Red Hat and the Clone Wars](https://dissociatedpress.net/category/clone-wars/): A multi-part series about Red Hat and the "clones" of Red Hat Enterprise Linux (RHEL) over the past 20 years. 
 - Of Mastodon and Twitter: "[All the perfect drugs and superheroes...](https://dissociatedpress.net/2022/11/07/all-the-perfect-drugs-and-superheroes/)", "[Taming Mastodons for a better web](https://dissociatedpress.net/2022/11/09/taming-mastodons-for-a-better-web/)"
 - On open source: "[Give nothing, expect nothing: GitLab’s the latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)", "[Why don't people just...?](https://dissociatedpress.net/2022/12/26/why-dont-people-just/)"
 - On Music: "[My favorite 100 albums](https://dissociatedpress.net/top-100-albums/)", "[You can't find that on streaming](https://dissociatedpress.net/you-cant-find-that-on-spotify-albums-and-songs-you-cant-find-on-streaming-services/)"
