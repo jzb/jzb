@@ -17,10 +17,10 @@ Have been [working in tech](https://www.linkedin.com/in/zonker/) for more than 2
 - My personal email is jzb at that first domain or [Zonker.net](https://zonker.net). 
 
 ## Featured articles and blog posts
-- [Trinity keeps KDE 3 on life support](https://lwn.net/Articles/973130/)
-- [Modernizing accessibility for desktop Linux](https://lwn.net/Articles/971541/)
-- [Gentoo bans AI-created contributions](https://lwn.net/Articles/970072/)
-- [The race to replace Redis](https://lwn.net/Articles/966631/)
+- [Trinity keeps KDE 3 on life support](https://lwn.net/Articles/973130/): On LWN, for users who still prefer the "classic" KDE desktop, there's Trinity. 
+- [Modernizing accessibility for desktop Linux](https://lwn.net/Articles/971541/): On LWN, coverage of the Newton project to improve accessibility on the Linux desktop.
+- [Gentoo bans AI-created contributions](https://lwn.net/Articles/970072/): On LWN, the Gentoo discussion and decision around banning AI-generated contributions.
+- [The race to replace Redis](https://lwn.net/Articles/966631/): On LWN, now that Redis has a non-free license, there are multiple efforts to establish a free fork. 
 - [Red Hat and the Clone Wars](https://dissociatedpress.net/category/clone-wars/): A multi-part series about Red Hat and the "clones" of Red Hat Enterprise Linux (RHEL) over the past 20 years. 
 - Of Mastodon and Twitter: "[All the perfect drugs and superheroes...](https://dissociatedpress.net/2022/11/07/all-the-perfect-drugs-and-superheroes/)", "[Taming Mastodons for a better web](https://dissociatedpress.net/2022/11/09/taming-mastodons-for-a-better-web/)"
 - On open source: "[Give nothing, expect nothing: GitLab’s the latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)", "[Why don't people just...?](https://dissociatedpress.net/2022/12/26/why-dont-people-just/)"
