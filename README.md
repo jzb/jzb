@@ -8,14 +8,6 @@ I'm all about [open source](https://dissociatedpress.net/tag/open-source/), [wri
 
 Have been [working in tech](https://www.linkedin.com/in/zonker/) for more than 20 years, usually doing some combination of the above. 
 
-## 📫 Where to find me
-- **LWN** [LWN](https://lwn.net/).
-- **Blog** [Dissociated Press](https://dissociatedpress.net/) for thoughts on all the above, music, and cats. 
-- **Mastodon** as [@jzb@mastodon.social](https://mastodon.social/@jzb) shorter thoughts... 
-- [**LinkedIn**](https://www.linkedin.com/in/zonker/) to connect professionally and elsewhere.
-- **More about me** on [my portfolio site](https://www.joebrockmeier.com/).
-- My personal email is jzb at that first domain or [Zonker.net](https://zonker.net). 
-
 ## Featured articles and blog posts
 - [Trinity keeps KDE 3 on life support](https://lwn.net/Articles/973130/): On LWN, for users who still prefer the "classic" KDE desktop, there's Trinity. 
 - [Modernizing accessibility for desktop Linux](https://lwn.net/Articles/971541/): On LWN, coverage of the Newton project to improve accessibility on the Linux desktop.
@@ -26,7 +18,13 @@ Have been [working in tech](https://www.linkedin.com/in/zonker/) for more than 2
 - On open source: "[Give nothing, expect nothing: GitLab’s the latest punching bag for entitled users](https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/)", "[Why don't people just...?](https://dissociatedpress.net/2022/12/26/why-dont-people-just/)"
 - On Music: "[My favorite 100 albums](https://dissociatedpress.net/top-100-albums/)", "[You can't find that on streaming](https://dissociatedpress.net/you-cant-find-that-on-spotify-albums-and-songs-you-cant-find-on-streaming-services/)"
 
-
+## 📫 Where to find me
+- **LWN** [LWN](https://lwn.net/).
+- **Blog** [Dissociated Press](https://dissociatedpress.net/) for thoughts on all the above, music, and cats. 
+- **Mastodon** as [@jzb@mastodon.social](https://mastodon.social/@jzb) shorter thoughts... 
+- [**LinkedIn**](https://www.linkedin.com/in/zonker/) to connect professionally and elsewhere.
+- **More about me** on [my portfolio site](https://www.joebrockmeier.com/).
+- My personal email is jzb at that first domain or [Zonker.net](https://zonker.net). 
 
 <!--
 **jzb/jzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
